@@ -1,5 +1,3 @@
-# dslist
-
 # DSList - Backend
 
 DSList é uma aplicação de backend construída durante o Intensivão Java Spring, um evento organizado pela DevSuperior.
