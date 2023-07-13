@@ -28,7 +28,7 @@ public class GameMinDTO {
     public GameMinDTO(GameMinProjection projection) {
         projection.getId();
         projection.getTitle();
-        projection.getYear();
+        projection.getGameYear();
         projection.getImgUrl();
         projection.getShortDescription();
     }
