@@ -1,4 +1,4 @@
-# dslist_project
+# dslist
 
 # DSList - Backend
 
@@ -43,4 +43,4 @@ cd dslist-backend
 ./mvnw spring-boot:run
 
 ## Autor
-[Mariana Sauer]
+Mariana Sauer
