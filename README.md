@@ -15,7 +15,7 @@ A aplicação é uma pesquisa de jogos que permite aos usuários encontrar infor
 - POST /lists/replacement: Organiza a lista de acordo com a preferência do usuário.
 
 ## Resposta da API
-![<img width="671" alt="id" src="https://github.com/marianasauer/dslist_project/assets/105138712/d130dff8-082b-4126-bcfc-1b6b5d3b4bf6">)
+<img width="671" alt="id" src="https://github.com/marianasauer/dslist_project/assets/105138712/d130dff8-082b-4126-bcfc-1b6b5d3b4bf6">
 
 ## Tecnologias Utilizadas
 ### Backend
