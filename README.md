@@ -35,7 +35,7 @@ Pré-requisitos: Java 17
 git clone https://github.com/marianasauer/dslist_project
 
 # Acessar a pasta do projeto de backend
-cd dslist-backend
+cd dslist_project
 
 # Executar o projeto
 ./mvnw spring-boot:run
